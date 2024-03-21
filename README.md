@@ -1,4 +1,7 @@
-# 🖥️ Lógica de Programação - DIO
+# Lógica de Programação - DIO
+
+![image](https://github.com/GustavoBCode/Logica-de-Programacao-DIO/assets/146696103/4160efa3-2cf9-450d-904e-69678ed0e88e)
+
 
 Esse repositório contem os 3 **Desafios de Projeto**  da **Formação Lógica de Programação**.
 

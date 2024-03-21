@@ -14,4 +14,8 @@ Este projeto visa criar uma função em JavaScript que determina o nível de um 
 
 # 2 - Calculadora de Partidas Rankeadas
 
+Este projeto visa criar uma função em JavaScript que permite calcular o nível de um jogador em um jogo ranqueado com base no saldo de vitórias e derrotas, retornando uma mensagem indicando o saldo de vitórias e o nível correspondente do jogador.
+
+![2](https://github.com/GustavoBCode/Logica-de-Programacao-DIO/assets/146696103/878ba7e1-b7a5-49cf-a1d7-26f976ccd3ce)
+
 # 3 - Escrevendo as Classes de um jogo
